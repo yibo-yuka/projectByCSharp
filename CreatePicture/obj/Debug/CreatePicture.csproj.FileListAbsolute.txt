@@ -1,0 +1,7 @@
+C:\Users\yibo\Desktop\UIc#_try\CreatePicture\bin\Debug\CreatePicture.exe.config
+C:\Users\yibo\Desktop\UIc#_try\CreatePicture\bin\Debug\CreatePicture.exe
+C:\Users\yibo\Desktop\UIc#_try\CreatePicture\bin\Debug\CreatePicture.pdb
+C:\Users\yibo\Desktop\UIc#_try\CreatePicture\obj\Debug\CreatePicture.csproj.AssemblyReference.cache
+C:\Users\yibo\Desktop\UIc#_try\CreatePicture\obj\Debug\CreatePicture.csproj.CoreCompileInputs.cache
+C:\Users\yibo\Desktop\UIc#_try\CreatePicture\obj\Debug\CreatePicture.exe
+C:\Users\yibo\Desktop\UIc#_try\CreatePicture\obj\Debug\CreatePicture.pdb

@@ -1,0 +1,15 @@
+C:\Users\yibo\Desktop\UIc#_try\test0803\bin\Debug\test0803.exe.config
+C:\Users\yibo\Desktop\UIc#_try\test0803\bin\Debug\test0803.exe
+C:\Users\yibo\Desktop\UIc#_try\test0803\bin\Debug\test0803.pdb
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\test0803.csproj.AssemblyReference.cache
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\MainWindow.g.cs
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\App.g.cs
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\test0803_MarkupCompile.cache
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\test0803_MarkupCompile.lref
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\MainWindow.baml
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\test0803.g.resources
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\test0803.Properties.Resources.resources
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\test0803.csproj.GenerateResource.cache
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\test0803.csproj.CoreCompileInputs.cache
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\test0803.exe
+C:\Users\yibo\Desktop\UIc#_try\test0803\obj\Debug\test0803.pdb

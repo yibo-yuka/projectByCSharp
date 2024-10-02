@@ -1,0 +1,10 @@
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\bin\Debug\EnumControlElem.exe.config
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\bin\Debug\EnumControlElem.exe
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\bin\Debug\EnumControlElem.pdb
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\obj\Debug\EnumControlElem.csproj.AssemblyReference.cache
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\obj\Debug\EnumControlElem.Form1.resources
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\obj\Debug\EnumControlElem.Properties.Resources.resources
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\obj\Debug\EnumControlElem.csproj.GenerateResource.cache
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\obj\Debug\EnumControlElem.csproj.CoreCompileInputs.cache
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\obj\Debug\EnumControlElem.exe
+C:\Users\yibo\Desktop\UIc#_try\EnumControlElem\obj\Debug\EnumControlElem.pdb

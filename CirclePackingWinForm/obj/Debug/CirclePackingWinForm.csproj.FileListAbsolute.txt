@@ -1,0 +1,9 @@
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWinForm\obj\Debug\CirclePackingWinForm.csproj.AssemblyReference.cache
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWinForm\obj\Debug\CirclePackingWinForm.Properties.Resources.resources
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWinForm\obj\Debug\CirclePackingWinForm.csproj.GenerateResource.cache
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWinForm\obj\Debug\CirclePackingWinForm.csproj.CoreCompileInputs.cache
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWinForm\bin\Debug\CirclePackingWinForm.exe.config
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWinForm\bin\Debug\CirclePackingWinForm.exe
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWinForm\bin\Debug\CirclePackingWinForm.pdb
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWinForm\obj\Debug\CirclePackingWinForm.exe
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWinForm\obj\Debug\CirclePackingWinForm.pdb

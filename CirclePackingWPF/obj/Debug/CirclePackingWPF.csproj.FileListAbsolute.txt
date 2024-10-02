@@ -1,0 +1,15 @@
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\bin\Debug\CirclePackingWPF.exe.config
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\bin\Debug\CirclePackingWPF.exe
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\bin\Debug\CirclePackingWPF.pdb
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\CirclePackingWPF.csproj.AssemblyReference.cache
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\App.g.cs
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\CirclePackingWPF_MarkupCompile.cache
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\CirclePackingWPF_MarkupCompile.lref
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\MainWindow.baml
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\CirclePackingWPF.g.resources
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\CirclePackingWPF.Properties.Resources.resources
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\CirclePackingWPF.csproj.GenerateResource.cache
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\CirclePackingWPF.csproj.CoreCompileInputs.cache
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\CirclePackingWPF.exe
+C:\Users\yibo\Desktop\UIc#_try\CirclePackingWPF\obj\Debug\CirclePackingWPF.pdb
