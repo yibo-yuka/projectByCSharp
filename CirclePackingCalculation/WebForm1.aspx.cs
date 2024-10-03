@@ -57,7 +57,7 @@ namespace CirclePackingCalculation
                         //設定完整儲存路徑
                         string savePath = Path.Combine(appPath + saveDir, fileName);
 
-                        //儲存檔案4
+                        //儲存檔案
                         try
                         {
                             FileUpload1.SaveAs(savePath);
